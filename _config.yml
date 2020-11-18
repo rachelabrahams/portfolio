@@ -10,7 +10,7 @@ permalink:        pretty
 title:            'Rachel Abrahams'
 tagline:          'test site'
 description:      'description'
-url:              
+url:              https://rachelabrahams.github.io
 baseurl:          /portfolio/
 
 author:
